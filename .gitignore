@@ -1,7 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+courseinfo/node_modules
+unicafe/node_modules
+anecdotes/node_modules
 /.pnp
 .pnp.js
 
@@ -9,7 +11,9 @@
 /coverage
 
 # production
-/build
+courseinfo/build
+unicafe/build
+anecdotes/build
 
 # misc
 .DS_Store
